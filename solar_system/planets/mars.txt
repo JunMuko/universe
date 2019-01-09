@@ -3,3 +3,4 @@ Mars has an 687 day year.
 
 Mars is red.
 
+Mars is not a planet.
